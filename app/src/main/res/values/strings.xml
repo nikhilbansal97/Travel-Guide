@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Travel Guide</string>
+    <string name="main_content">Ladakh is a region in Indian state of Jammu and Kashmir that currently extends from the Kunlun mountain range to the main Great Himalayas to the south, inhabited by people of Indo-Aryan and Tibetan descent.</string>
+    <string name="welcome_user">Welcome to Ladakah,</string>
+
+    <string name="attraction_one">KHARDUNG LA PASS</string>
+    <string name="attraction_one_content">It might not look like much of a road but it’s the best that there is. Managed by the Border Roads Organization, Kardung-la Pass is the gateway to the north and can be considered by many as a tourist spot in itself. However, being at such a height, one has to take extreme care of health while traveling through the pass. On the fun side, the numerous Tibetan flags that are said to ward off bad spirits and keep you safe set up a beautiful contrast with the white snow.</string>
+
+    <string name="attraction_two">SPITUK GOMPA</string>
+    <string name="attraction_two_content">Ladakh is known as the land of the monks and monasteries and rightly so. Spituk is one of the many monasteries in the region. This is famous for its beautifully carved location at the top of a hill. With nearby mountains being much taller, the location is not exactly a vantage point but the view from the monastery is still pretty amazing. The winds at the night however may chill you to the bones.</string>
+
+    <string name="attraction_three">PANGONG TSO</string>
+    <string name="attraction_three_content">It’s the Pangong-Tso lake that traverses the boundary international boundary to stretch from India to Bhutan. The lake offers awesome site for camping and is the current hotspot for all people traveling to Ladakh. The rules do not allow boating on Pangong-Tso Lake but when the lake freezes in the winters, if you’re feeling too brave, you might want to ice skate at just the bank of the lake.</string>
+
+    <string name="attraction_four">SHANTI STUPA</string>
+    <string name="attraction_four_content">What better place to invoke some thoughts from within to asses yourself in life. One of the many reasons why people take a trip to Leh-Ladakh is to find some time to take a break from the everyday schedule and re-assess their lives. Shanti Stupa offers the perfect location for the same. The nighttime view is even better and a little meditation besides the Stupa might help you get what you came here for.</string>
+
+    <string name="attraction_five">TSO MORIRI LAKE</string>
+    <string name="attraction_five_content">The place is a canvas colored with the blue-white skies, blue-green mountains with white tops, the calm blue water of the lake and lush green pastures. Who needs any place better than this? The Tso Moriri lake is probably not as famous as the Pangong Lake but it is still a must place to visit in Leh Ladakh for anyone taking a trip in this region.</string>
+
+    <string name="food_one">Cafe Jeevan</string>
+    <string name="food_one_brief">Cafe Jeevan is much loved for its all vegetarian Italian menu and its fame as a book cafe. It is located in a quiet corner of Changspa Road, offering great views as well.</string>
+    <string name="food_one_rating">3.5/5</string>
+
+    <string name="food_two">Old Town Cafe</string>
+    <string name="food_two_brief">Traditional Ladakhi food served in a 17th-century kitchen - that’s the Old Town Cafe for you. It is curled up in a corner, under the shadow of the Leh Palace, guarded by Stok Kangri on the horizon. </string>
+    <string name="food_two_rating">3.7/5</string>
+
+    <string name="food_three">Chopsticks Noodle Bar</string>
+    <string name="food_three_brief">Chinese,Bar</string>
+    <string name="food_three_rating">3.1/5</string>
+
+    <string name="food_four">Norlakh Restaurant</string>
+    <string name="food_four_brief">Anyone looking for pocket-friendly yet delicious local cuisine must visit Norlakh restaurant located in Main Bazaar, Leh. This family restaurant is renowned for its vegetarian Tibetan dishes and dumplings or momos </string>
+    <string name="food_four_rating">4.5/5</string>
+
+    <string name="food_five">Bon Appetit</string>
+    <string name="food_five_brief">Bon Appetit is apparently one of the best places to eat in Ladakh. Owned by two women who also happen to be cousins, this lovely food joint oozes charm and you will simply fall in love with the splendid interiors. </string>
+    <string name="food_five_rating">4.2/5</string>
+
+    <string name="food_six">Pumpernickel German Bakery</string>
+    <string name="food_six_brief">Dessert,Cookies</string>
+    <string name="food_six_rating">4.7/5</string>
+
+    <string name="food_seven">The Tibetan Kitchen</string>
+    <string name="food_seven_brief">Local Cuisine</string>
+    <string name="food_seven_rating">4.3/5</string>
+
+    <string name="food_eight">Gesmo Restaurant</string>
+    <string name="food_eight_brief">Pizza</string>
+    <string name="food_eight_rating">3.9/5</string>
+
+    <string name="food_nine">Summer Harvest</string>
+    <string name="food_nine_brief">This one is more of a hangout place with chilled beer and a set menu for the entire day. While there is not much for vegetarians, it serves some of the best fried mutton momos, rogan josh, Chinese noodles</string>
+    <string name="food_nine_rating">4.0/5</string>
+
+    <string name="hotel_one">Hotel Charu Palace</string>
+    <string name="hotel_one_content">Newly constructed hotel A Grade hotel in Leh Ladakh called "Hotel Charu Palace Leh" awaits your arrival at the most amazing place in India "roof top of the world" Leh - Ladakh. 16 beautifully appointed deluxe rooms and suites, each with all modern amenities like LED TV with Tata Sky HD Connection , Intercom, Wi-Fi Internet access, and magnificent views.</string>
+    <string name="hotel_one_address">Address : Khakshal, Near Lamdon School, Khaksha, Leh Ladakh</string>
+
+    <string name="hotel_two">Hotel Grand Dragon</string>
+    <string name="hotel_two_content">The Grand Dragon is a 4 Star luxury deluxe hotel in the beautiful environs of Leh, Ladakh. The hotel offers comfortable accommodation with modern amenities to its guests. The Grand Dragon is located at Leh in Ladakh.</string>
+    <string name="hotel_two_address">Address : Grand Dragon, Old Road, Sheynam, Leh-194101</string>
+
+    <string name="hotel_three">Hotel Druk Ladakh</string>
+    <string name="hotel_three_content">Hotel Druk Ladakh is a “A” Category luxury deluxe hotel in the beautiful environs of Leh, Ladakh. The famous Tourists Destination Shanti Stupa is also nearby.The hotel offers comfortable accommodation with modern amenities to its guests. Hotel Druk Ladakh is located at Leh in Ladakh.</string>
+    <string name="hotel_three_address">Address : Hotel Druk Ladakh, Shanti stupa Road, Yurtung, Leh-194101</string>
+
+    <string name="hotel_four">Hotel Ladakh Residency</string>
+    <string name="hotel_four_content">Hotel Ladakh residency is a luxury hotel in the beautiful environs of Leh, Ladakh. Located in the quiet Changspa Village, five short minutes from the heart of the Leh town. The hotel offers comfortable accommodation with modern amenities to its guests. Hotel Ladakh Residency is located at Leh in Ladakh.</string>
+    <string name="hotel_four_address">Address : Ladakh Residency, Changspa, Leh-194101, Ladakh </string>
+
+    <string name="hotel_five">"Hotel Sarai</string>
+    <string name="hotel_five_content">The Ladakh Sarai is Ladakh’s premier eco resort in the beautiful environs of Leh, Ladakh. The hotel offers comfortable accommodation with modern amenities to its guests. The Ladakh Sarai is located at Leh in Ladakh.The hotel offers a range of facilities to its guests like dining and launging area for gathering, room services and doctor on call.</string>
+    <string name="hotel_five_address">Address : Ladakh Sarai, Ayu leh, Leh-194101, Ladakh (India)</string>
+
+    <string name="culture_one">CAMEL SAFARI</string>
+    <string name="culture_one_content">Camel safari will be one of the best and unforgettable experiences in Leh Ladakh trip! Riding on a double humped camel and scaling the beautiful landscapes of the high altitude desert is quickly gaining a reputation of being one of the best things to do in Ladakh. Extensively used by Central Asian traders to explore the rugged terrains of Ladakh since the ancient times, the Bactrian camels have emerged as the hot favorites for tourists.</string>
+
+    <string name="culture_two">TREKKING</string>
+    <string name="culture_two_content">Trekking is not only about scaling high passes, mountains or any other geographical adversity, but it offers you to explore the culture and heritage of the region.  A Buddhist land that has high trenches after every couple of miles, rugged and rocky terrains that never seem to loosen up and snowy landscapes to freeze up your mind,  trekking feels as the ultimate choice to explore the nature’s extremes.</string>
+
+    <string name="culture_three">CUISINE</string>
+    <string name="culture_three_content">Ladakhi food has much in common with Tibetan food, the most prominent foods being thukpa (noodle soup) and tsampa, known in Ladakhi as ngampe (roasted barley flour). Edible without cooking, tsampa makes useful trekking food.</string>
+
+    <string name="culture_four">MUSIC AND DANCE</string>
+    <string name="culture_four_content">Traditional music includes the instruments surna and daman (shenai and drum). The music of Ladakhi Buddhist monastic festivals, like Tibetan music, often involves religious chanting in Tibetan as an integral part of the religion. These chants are complex, often recitations of sacred texts or in celebration of various festivals Yang chanting, performed without metrical timing, is accompanied by resonant drums and low, sustained syllables.</string>
+
+    <string name="culture_five">SPORTS</string>
+    <string name="culture_five_content">The most popular sport in Ladakh is ice hockey, which is played only on natural ice generally mid-December through mid-February.Archery is a traditional sport in Ladakh, and many villages hold archery festivals, which are as much about traditional dancing, drinking and gambling as about the sport. The sport is conducted with strict etiquette, to the accompaniment of the music of surna and daman.</string>
+
+    <string name="culture_six">MEDICINE</string>
+    <string name="culture_six_content">Tibetan medicine has been the traditional health system of Ladakh for over a thousand years. This school of traditional healing contains elements of Ayurveda and Chinese medicine, combined with the philosophy and cosmology of Tibetan Buddhism. For centuries, the only medical system accessible to the people have been the amchi — traditional doctors following the Tibetan medical tradition</string>
+</resources>
