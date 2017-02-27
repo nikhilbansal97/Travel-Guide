@@ -1,2 +1,3 @@
 # Travel-Guide
-Udacity Android basics Nanodegree Project 6
+>It is a travel guide app for Ladakh
+>It is covered in Udacity Android Basics Nanodegree
